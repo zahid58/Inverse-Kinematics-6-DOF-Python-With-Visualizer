@@ -340,9 +340,7 @@ def get_angles(x, y, z, roll, pitch, yaw):
   Rgu_eval = Matrix([[0, 0, 1], [0, -1.00000000000000, 0], [1.00000000000000, 0, 0]])
   RguT_eval = Matrix([[0, 0, 1], [0, -1.00000000000000, 0], [1.00000000000000, 0, 0]])
 
-  ################################################################################
   # Inverse kinematics transformations starts below
-  ################################################################################
 
   R0u_eval = R0u.evalf(subs = {alpha: yaw, beta: pitch, gamma: roll})
   R0g_eval = R0u_eval * RguT_eval
