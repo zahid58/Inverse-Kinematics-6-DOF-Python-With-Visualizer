@@ -1,6 +1,5 @@
-run armControl.py
-it will import invKin.py, SerialCom.py
 
+![](https://github.com/Zedd1558/Inverse-Kinematics-6-DOF-for-ERC-2019/blob/master/roboticArm.png)
 # InverseKinematics - problem formulation
 In robotics, inverse kinematics makes use of the kinematics equations to determine the joint parameters that provide a desired position for each of the robot's end-effectors. In this program, we will apply inverse kinematics on a 6 DOF robotic arm. (KUKA based design)
 We have the robotic arm's measurements i.e. link lengths, link configuration, rotation information. Given coordinates X, Y, Z and roll, pitch, yaw of the end effector, We have to determine every joint angle from q1, q2, q3 ,q4, q5, q6.
@@ -13,7 +12,9 @@ http://scholar.google.com/scholar_url?url=https://forum.linuxcnc.org/media/kunen
 http://atmia.put.poznan.pl/Woluminy/Fil/ATMiA_34_3_5.pdf
 # Some instructions
 run armControl.py. A GUI having control of X,Y,Z,roll,pitch,yaw will be initiated. A matplotlib window will be initiated. Play with GUI buttons to see inverse kinematics in action.
-![](https://github.com/iut-160041010/InverseKinematicsERC19/blob/master/Applying%20Inverse%20Kinematics/Slide2.JPG)
+![](https://github.com/Zedd1558/Inverse-Kinematics-6-DOF-for-ERC-2019/blob/master/Screenshot%20(55).png)
+![](https://github.com/Zedd1558/Inverse-Kinematics-6-DOF-for-ERC-2019/blob/master/Screenshot%20(54).png)
+![](https://github.com/Zedd1558/Inverse-Kinematics-6-DOF-for-ERC-2019/blob/master/Screenshot%20(53).png)
 # Author 
 Md. Zahidul Islam,
 Undergrad, CSE, IUT,
