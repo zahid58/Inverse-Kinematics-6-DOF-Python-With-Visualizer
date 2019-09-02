@@ -1,4 +1,4 @@
-
+<img src="https://github.com/Zedd1558/Inverse-Kinematics-6-DOF-for-ERC-2019/blob/master/roboticArm.png"  width="100" height="100" />
 ![](https://github.com/Zedd1558/Inverse-Kinematics-6-DOF-for-ERC-2019/blob/master/roboticArm.png | width = 64)
 # InverseKinematics - problem formulation
 In robotics, inverse kinematics makes use of the kinematics equations to determine the joint parameters that provide a desired position for each of the robot's end-effectors. In this program, we will apply inverse kinematics on a 6 DOF robotic arm. (KUKA based design)
