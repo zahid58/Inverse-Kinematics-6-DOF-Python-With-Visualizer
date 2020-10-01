@@ -12,7 +12,10 @@ http://scholar.google.com/scholar_url?url=https://forum.linuxcnc.org/media/kunen
 \
 http://atmia.put.poznan.pl/Woluminy/Fil/ATMiA_34_3_5.pdf
 # Some instructions
-run armControl.py. A GUI having control of X,Y,Z,roll,pitch,yaw will be initiated. A matplotlib window will be initiated. Play with GUI buttons to see inverse kinematics in action.
+```
+python armControl.py 
+```
+A GUI having control of X,Y,Z,roll,pitch,yaw will be initiated. A matplotlib window will be initiated. Play with GUI buttons to see inverse kinematics in action.
 ![](https://github.com/Zedd1558/Inverse-Kinematics-6-DOF-for-ERC-2019/blob/master/Screenshot%20(55).png)
 ![](https://github.com/Zedd1558/Inverse-Kinematics-6-DOF-for-ERC-2019/blob/master/Screenshot%20(54).png)
 ![](https://github.com/Zedd1558/Inverse-Kinematics-6-DOF-for-ERC-2019/blob/master/Screenshot%20(53).png)
@@ -20,3 +23,4 @@ run armControl.py. A GUI having control of X,Y,Z,roll,pitch,yaw will be initiate
 Md. Zahidul Islam,
 Undergrad, CSE, IUT,
 Islamic University of Technology. 
+https://github.com/Zedd1558
