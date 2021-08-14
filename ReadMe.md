@@ -4,7 +4,7 @@
 In robotics, inverse kinematics makes use of the kinematics equations to determine the joint parameters that provide a desired position for each of the robot's end-effectors. In this program, we will apply inverse kinematics on a 6 DOF robotic arm. (KUKA based design)
 We have the robotic arm's measurements i.e. link lengths, link configuration, rotation information. Given coordinates X, Y, Z and roll, pitch, yaw of the end effector, We have to determine every joint angle from q1, q2, q3 ,q4, q5, q6.
 
-# The mathematical calculations of IK are taken from https://github.com/mithi/arm-ik/
+#### The mathematical calculations of IK are taken from https://github.com/mithi/arm-ik/
 
 # Procedure
 In the terminal enter "python armControl.py". This will open up a GUI window where you give inputs and output angles are calculated.
