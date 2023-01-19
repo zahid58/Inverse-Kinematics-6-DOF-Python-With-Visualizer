@@ -25,6 +25,6 @@ A GUI having control of X,Y,Z,roll,pitch,yaw will be initiated. A matplotlib win
 
 # Author 
 Md. Zahidul Islam,
-Undergrad, CSE, IUT,
+Lecturer, CSE, IUT,
 Islamic University of Technology. 
 https://github.com/Zedd1558
